@@ -1,6 +1,5 @@
 # ms-excel-case-skills
-Project used to show the use of Microsoft Excel to solve various business cases
-dataset: monthly sales dummy dataset
+Project used to show the use of Microsoft Excel to solve various business cases - monthly sales dummy dataset
 
 Task:
 * Frequently Report
